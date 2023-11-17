@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "815373948346",
+    "project_id": "work-intergrated-6ee73",
+    "storage_bucket": "work-intergrated-6ee73.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:815373948346:android:df75554b92f1d7dcaaf983",
+        "android_client_info": {
+          "package_name": "com.example.work_intergrated"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXcm2DVaq7g_oog22YLowkUS_f4K675XU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
